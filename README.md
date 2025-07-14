@@ -1,6 +1,7 @@
 # Indian Gesture (or Indian Sign Language a.k.a ISL) Recognition
 
-This project implements a hand gesture recognition system using a Convolutional Neural Network (CNN) and OpenCV. It includes tools to create custom gestures, train a model, and recognize gestures in real-time using a webcam.
+This project (implemented for my NLP course) implements a hand gesture recognition system using a Convolutional Neural Network (CNN) and OpenCV. It includes tools to create custom gestures, train a model, and recognize gestures in real-time using a webcam. The project report can be found in 'docs/'.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/065d695c-888b-4b04-b64c-a0d864e0d59b" alt="ProjectBlockDiagram">
 </p>
@@ -26,8 +27,10 @@ This project implements a hand gesture recognition system using a Convolutional 
 2. To split the data into train, test, and validation sets: python load_images.py
 3. To view all stored gestures: python display_all_gestures.py
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a0f9de8-ceff-4f10-8699-8fa9bdaaa67b" alt="full_img">
+</p>
 
-![full_img](https://github.com/user-attachments/assets/6a0f9de8-ceff-4f10-8699-8fa9bdaaa67b)
 
 ## Train the model
 1. Train the CNN model: python cnn_keras.py
