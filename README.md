@@ -3,6 +3,10 @@
 This project (implemented for my NLP course) implements a hand gesture recognition system using a Convolutional Neural Network (CNN) and OpenCV. It includes tools to create custom gestures, train a model, and recognize gestures in real-time using a webcam. The project report can be found in 'docs/'.
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/34b8388c-2f2f-4320-ab31-7cb30fa71ad6" alt="ProjectBlockDiagram">
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/065d695c-888b-4b04-b64c-a0d864e0d59b" alt="ProjectBlockDiagram">
 </p>
 
