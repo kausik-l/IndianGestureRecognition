@@ -1,7 +1,9 @@
 # Indian Gesture (or Indian Sign Language a.k.a ISL) Recognition
 
 This project implements a hand gesture recognition system using a Convolutional Neural Network (CNN) and OpenCV. It includes tools to create custom gestures, train a model, and recognize gestures in real-time using a webcam.
-![ProjectBlockDiagram](https://github.com/user-attachments/assets/065d695c-888b-4b04-b64c-a0d864e0d59b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/065d695c-888b-4b04-b64c-a0d864e0d59b" alt="ProjectBlockDiagram">
+</p>
 
 ## Environment Setup
 
