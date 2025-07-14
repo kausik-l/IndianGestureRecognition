@@ -23,6 +23,8 @@ This project implements a hand gesture recognition system using a Convolutional 
 1. To get the flipped variants: python flip_images.py
 2. To split the data into train, test, and validation sets: python load_images.py
 3. To view all stored gestures: python display_all_gestures.py
+
+
 ![full_img](https://github.com/user-attachments/assets/6a0f9de8-ceff-4f10-8699-8fa9bdaaa67b)
 
 ## Train the model
